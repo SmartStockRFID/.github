@@ -1,1 +1,1 @@
-Hello World!
+(Welcome everyone!)[banner.png]

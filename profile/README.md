@@ -1,1 +1,1 @@
-![Welcome everyone!](banner.png)
+![Welcome everyone!](banner.webp)
